@@ -14,3 +14,4 @@ Start:起始地點 ，End:結束地點，C:創意學院，LAW:法學院，AG:農
 <img src="readme圖庫/未後製1.jpg" width="400"/><br>
 4. 接著利用PhotoShop技巧，將腳架抹除。示意圖如下:<br>
 <img src="readme圖庫/已後製.jpg" width="400"/><br>
+5. 再將修改好後的圓形圖片轉換為原來的長方形。
