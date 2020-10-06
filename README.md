@@ -3,6 +3,7 @@
 下載連結:https://drive.google.com/drive/folders/1W3_tqo4oZs5acos4dvZVn4ur6Azm9cuP?usp=sharing
 ### 簡介 : 利用360相機結合PhotoShop完成所需素材，再透過Unity實現3D校園街景導覽，示意動畫如下:
 <img src="readme圖庫/示意 (1)-min.gif" width="400"/><br>
+此示意圖為每秒3FPS偵率拍攝，畫面不流暢純屬正常<br>
 ### 本次欲導覽的地方為東海大學圖書館至文理大道(下) :
 Start:起始地點 ，End:結束地點，C:創意學院，LAW:法學院，AG:農學院 <br>
 <img src="readme圖庫/螢幕擷取畫面 2020-10-06 165119.png" width="400"/> 
