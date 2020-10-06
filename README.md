@@ -1,4 +1,6 @@
 # 3D-AR-校園導覽
+因Github單一檔案最大只能50MB，我檔案過大，故在此將檔案放在Google drive<br>
+下載連結:https://drive.google.com/drive/folders/1W3_tqo4oZs5acos4dvZVn4ur6Azm9cuP?usp=sharing
 ### 簡介 : 利用360相機結合PhotoShop完成所需素材，再透過Unity實現3D校園街景導覽，示意動畫如下:
 <img src="readme圖庫/示意 (1)-min.gif" width="400"/><br>
 ### 本次欲導覽的地方為東海大學圖書館至文理大道(下) :
