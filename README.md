@@ -1,5 +1,6 @@
 # 3D-AR-校園導覽
 ## 簡介 :<br>
+<img src="readme圖庫/示意 (1)-min.gif" width="400"/>
 ### 本次欲導覽的地方為東海大學圖書館至文理大道(下) :
 <br> Start:起始地點 ，End:結束地點，C:創意學院，LAW:法學院，AG:農學院 <br>
 <img src="readme圖庫/螢幕擷取畫面 2020-10-06 165119.png" width="400"/> 
